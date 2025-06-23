@@ -9,3 +9,7 @@ It's not necessarily real-world data.
 ## Copyleft
 
 ![Copyleft](./images/copyleft.png) 2025 Real Time Data Analyser Team
+
+## Design v1
+
+![Copyleft](./images/real-time-data-analyzer.png) 
